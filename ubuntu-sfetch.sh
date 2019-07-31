@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# sfetch v1
 # pretty much the same as every other 'fetch' program but less than a KiB
 
 # __ DEFINING SYSTEM INFO __
